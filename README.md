@@ -4,8 +4,6 @@ Ini adalah proyek sederhana yang dibuat untuk memenuhi tugas mata kuliah **Rekay
 Nama: Bagas Aji Rasendria
 NIM: 255150200111018
 
-(File README.md ini dibuat dan dibantu pembuatannya oleh AI)
-
 ## Deskripsi Proyek
 
 Proyek ini merupakan studi kasus implementasi *software development* menggunakan kerangka kerja (framework) **Scrum**. Tujuan utamanya adalah membangun sistem backend sederhana untuk mengelola hubungan bimbingan antara Dosen dan Mahasiswa.
